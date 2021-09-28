@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/205bce97-a8e7-4053-9a85-9d562dbd716e/deploy-status)](https://app.netlify.com/sites/amir-guess-the-number/deploys)
+
 # Guess-The-Number-Game
 
 ## Explanation
