@@ -2,12 +2,7 @@
 
   [![wakatime](https://wakatime.com/badge/github/Amir-Pourhadi/Guess-the-Number.svg)](https://wakatime.com/badge/github/Amir-Pourhadi/Guess-the-Number)
   [![Netlify Status](https://api.netlify.com/api/v1/badges/205bce97-a8e7-4053-9a85-9d562dbd716e/deploy-status)](https://app.netlify.com/sites/amir-guess-the-number/deploys)
-  [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Guess-the-Number&metric=ncloc)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Guess-the-Number)
-  [![CodeFactor](https://www.codefactor.io/repository/github/amir-pourhadi/guess-the-number/badge)](https://www.codefactor.io/repository/github/amir-pourhadi/guess-the-number)  
-  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Guess-the-Number&metric=alert_status)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Guess-the-Number)
-  [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Guess-the-Number&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Guess-the-Number)
-  [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Guess-the-Number&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Guess-the-Number)
-  [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Guess-the-Number&metric=security_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Guess-the-Number)
+
 </div>
 
 # Guess-The-Number-Game
